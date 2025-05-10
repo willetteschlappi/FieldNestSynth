@@ -1,0 +1,22 @@
+
+---
+
+**LatencyPulseTrack**  
+**Description:**  
+Continuously monitors latency pulses from one or more API endpoints and records changes over time.
+
+```markdown
+# LatencyPulseTrack - Realtime API Latency Monitor
+
+LatencyPulseTrack visualizes API response time variations, detects latency spikes, and flags jitter or decay.
+
+## Features
+- Pulse timeline graph  
+- Spike alert system  
+- JSON / CSV logs
+
+## Usage
+```bash
+git clone https://github.com/your-username/LatencyPulseTrack.git
+cd LatencyPulseTrack
+python monitor.py

@@ -1,0 +1,22 @@
+
+---
+
+**StreamTunnelArc**  
+**Description:**  
+Renders real-time data streams in a continuous arc-like scrolling chart optimized for visual clarity.
+
+```markdown
+# StreamTunnelArc - Curved Realtime Data Visualizer
+
+StreamTunnelArc presents fast-moving numeric values on an elegant, curved scrolling path for dashboards or monitoring.
+
+## Features
+- Live arc-style chart  
+- Real-time refresh  
+- Built on Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamTunnelArc.git
+cd StreamTunnelArc
+python visualize.py

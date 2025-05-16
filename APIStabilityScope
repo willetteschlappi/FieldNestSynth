@@ -1,0 +1,22 @@
+
+---
+
+**APIStabilityScope**  
+**Description:**  
+Monitors API endpoints for stability over time and flags unusual behavior, error streaks, or jitter trends.
+
+```markdown
+# APIStabilityScope - Long-Term API Reliability Monitor
+
+APIStabilityScope evaluates long-running endpoints and visualizes shifts in reliability or performance.
+
+## Features
+- Error pattern tracking  
+- Response time distribution  
+- Export to CSV or JSON
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIStabilityScope.git
+cd APIStabilityScope
+python monitor.py

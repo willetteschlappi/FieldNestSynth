@@ -1,0 +1,22 @@
+
+---
+
+**StreamPathTracker**  
+**Description:**  
+Plots live metrics in a continuously updating stream with directional flow and variable trail persistence.
+
+```markdown
+# StreamPathTracker - Live Metric Flow Plotter
+
+StreamPathTracker renders real-time values as a smooth flowing line with emphasis on velocity and trend direction.
+
+## Features
+- Adjustable refresh rate  
+- Fade-out trail effect  
+- Built using Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamPathTracker.git
+cd StreamPathTracker
+python visualize.py
